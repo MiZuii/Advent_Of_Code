@@ -1,0 +1,18 @@
+# :christmas_tree: Advent of Code 2025 :christmas_tree:
+
+For more info visit [Advent of Code](https://adventofcode.com/) website. Below is my 2025s AOC completions list :blush:.
+
+| Day | Part 1 | Part 2 |
+|-----|--------|--------|
+|  1  | :star: | :star2:|
+|  2  | :star: | :star2:|
+|  3  | :star: | :star2:|
+|  4  | :star: | :star2:|
+|  5  | :star: | :star2:|
+|  6  | :star: | :star2:|
+|  7  | :star: | :star2:|
+|  8  | :star: | :star2:|
+|  9  | :star: | :star2:|
+|  10 | :star: | :star2:|
+|  11 | :star: | :star2:|
+|  12 | :star: | :star2:|
